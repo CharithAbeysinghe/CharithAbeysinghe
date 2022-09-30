@@ -12,16 +12,19 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-<img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="cchanaka: Javascript" />&nbsp;
-<img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="cchanaka: Jquery" />&nbsp; 
-<img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="cchanaka: React" />&nbsp; 
-<img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="cchanaka: VueJS" />&nbsp;
-<img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="cchanaka: HTML5" /> 
-<img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="cchanaka: PHP" />&nbsp;
-<img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="cchanaka: Laravel" />&nbsp; 
-<img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="cchanaka: MySQL" />&nbsp; 
-<img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="cchanaka: Docker" />
+<img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="CharithAbeysinghe: Javascript" />&nbsp;
+<img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="CharithAbeysinghe: Jquery" />&nbsp; 
+<img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="CharithAbeysinghe: React" />&nbsp; 
+<img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="CharithAbeysinghe: VueJS" />&nbsp;
+<img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="CharithAbeysinghe: HTML5" /> 
+<img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="CharithAbeysinghe: PHP" />&nbsp;
+<img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="CharithAbeysinghe: Laravel" />&nbsp; 
+<img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="CharithAbeysinghe: MySQL" />&nbsp; 
+<img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="CharithAbeysinghe: Docker" />
+  <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="CharithAbeysinghe: Docker" />
 </div>
+
+
 <br/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=CharithAbeysinghe&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
