@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Contribution](https://activity-graph.herokuapp.com/graph?username=CharithAbeysinghe&theme=react-dark&hide_border=true&area=true)
+
 <!--
 **CharithAbeysinghe/CharithAbeysinghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
