@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Snake animation](https://github.com/CharithAbeysinghe/github-readme/blob/output/github-contribution-snake.svg)
+
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=CharithAbeysinghe&theme=react-dark&hide_border=true&area=true)
 
 <!--
