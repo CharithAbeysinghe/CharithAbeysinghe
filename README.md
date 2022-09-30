@@ -22,6 +22,7 @@
 <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="CharithAbeysinghe: Wordpress" />
 <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="CharithAbeysinghe: MySQL" />&nbsp; 
 <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="CharithAbeysinghe: Docker" />
+<img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="CharithAbeysinghe: Github" />
 </div>
 
 
