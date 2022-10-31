@@ -6,9 +6,8 @@
   <a href="https://www.linkedin.com/in/charith-abeysinghe-klcp/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-     <a href="https://www.fiverr.com/klcpabeysinghe">
-       <img src="https://img.shields.io/badge/Fiverr?style=for-the-badge&logo=Fiverr&logoColor=white" alt="Fiverr Badge"/>
-   </a> 
+
+    ![Fiverr](https://img.shields.io/static/v1?style=for-the-badge&message=Fiverr&color=222222&logo=Fiverr&logoColor=1DBF73&label=)
     
 </div>
 </div>
