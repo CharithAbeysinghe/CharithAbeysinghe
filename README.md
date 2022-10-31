@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
 <a href="https://www.fiverr.com/klcpabeysinghe">
-  <img src="[https://img.shields.io/badge/Fiverr](https://img.shields.io/badge/Fiverr-1DBF73.svg?style=for-the-badge&logo=Fiverr&logoColor=white)" alt="Fiverr      Badge"/> 
+  <img src="https://img.shields.io/badge/Fiverr-1DBF73.svg?style=for-the-badge&logo=Fiverr&logoColor=white" alt="Fiverr      Badge"/> 
      </a>
 </div>
   
