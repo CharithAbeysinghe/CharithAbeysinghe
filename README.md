@@ -10,23 +10,6 @@
 </div>
 <div>
 
-  <!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
-
-<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
-     <a itemprop='url' href=https://www.fiverr.com/klcpabeysinghe rel="nofollow" target="_blank" style='display: inline-block;'>
-        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-8d2d2b81-2f65-4083-b6aa-242ece9c2844' itemprop='contentURL' style='display: none;'></div>
-        <div id='fiverr-widget-seller-data' style='display: none;'>
-            <div itemprop='name' >klcpabeysinghe</div>
-            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
-            <div itemprop='jobtitle'>Seller</div>
-            <div itemprop='description'>I have more than 5 year experience in Web developing, web designing. I work with PHP frameworks Laravel and Codeigniter. I work hard to deliver your projects on time with expected requirements. </div>
-        </div>
-    </a>
-</div>
-
-<script id='fiverr-seller-widget-script-8d2d2b81-2f65-4083-b6aa-242ece9c2844' src='https://widgets.fiverr.com/api/v1/seller/klcpabeysinghe?widget_id=8d2d2b81-2f65-4083-b6aa-242ece9c2844' data-config='{"category_name":"Programming \u0026 Tech"}' async='true' defer='true'></script>
-
-
 </div>
 <br />
 
