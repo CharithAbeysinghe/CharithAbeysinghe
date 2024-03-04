@@ -20,7 +20,7 @@
 <div>
 <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="CharithAbeysinghe: HTML5" /> 
 <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="CharithAbeysinghe: PHP" />&nbsp;
-<img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="CharithAbeysinghe: Laravel" />&nbsp; 
+<img width="30px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg" alt="CharithAbeysinghe: Laravel" />&nbsp; 
 <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="CharithAbeysinghe: Javascript" />&nbsp;
 <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="CharithAbeysinghe: Jquery" />&nbsp; 
 <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="CharithAbeysinghe: React" />&nbsp; 
