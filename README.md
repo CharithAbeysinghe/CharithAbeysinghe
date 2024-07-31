@@ -13,7 +13,7 @@
   
 </div>
 
-![Visitor Count](https://profile-counter.glitch.me/CharithAbeysinghe/count.svg)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 <br />
 
 ### :hammer_and_wrench: Languages and Tools :
