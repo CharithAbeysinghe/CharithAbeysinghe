@@ -13,7 +13,7 @@
   
 </div>
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+
 <br />
 
 ### :hammer_and_wrench: Languages and Tools :
