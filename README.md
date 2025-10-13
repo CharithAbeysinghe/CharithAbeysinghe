@@ -1,5 +1,5 @@
-### Hi there 👋 I'm Charith Abeysinghe
-#### 💻 PHP Developer | Web Engineer | Creative Builder
+### Hi there 👋 I'm Charith Abeysinghe  
+#### 💻 Senior Full-Stack Software Engineer | PHP | Vue.js | React
 
 <br />
 
@@ -20,10 +20,11 @@
 
 ### 🧠 About Me
 - 🔭 Currently building **automation tools**, **plugins**, and **reporting systems**
-- 🌱 Learning **Go** and exploring **system design**
-- ⚙️ Experienced with **PHP (8 yrs)**, **Laravel**, **WordPress**, and **Vue.js**
-- 📦 Passionate about **integrations**, **API-driven systems**, and **process automation**
-- 💬 Ask me about **backend development**, **cron automation**, or **data syncing**
+- 🌱 Expanding skills in **Go** and **system design**
+- ⚙️ 8+ years experience with **PHP**, **Laravel**, **WordPress**, and **JavaScript frameworks**
+- 💡 Skilled in **Vue.js**, **React**, **Next.js**, and **modern frontend architecture**
+- 📦 Passionate about **API integrations**, **cron automation**, and **data synchronization**
+- 💬 Ask me about **backend development**, **frontend frameworks**, or **DevOps pipelines**
 - ⚡ Fun fact: I love building side projects that connect systems together 🚀
 
 <br />
@@ -35,7 +36,6 @@
   <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" />&nbsp;
   <img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg" alt="Laravel" />&nbsp;
   <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" />&nbsp;
-  <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jQuery" />&nbsp;
   <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="VueJS" />&nbsp;
   <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" />&nbsp;
   <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="NextJS" />&nbsp;
@@ -60,8 +60,8 @@
 <br />
 
 ### ☕ Let's Connect
-💬 Feel free to reach out — I’m always open to collaborating on interesting projects!
+💬 Always open to collaborating on **creative projects**, **tech challenges**, or **open-source ideas**.
 
 ---
 
-⭐️ _"Code. Learn. Improve. Repeat."_  
+⭐️ _"Code. Learn. Improve. Repeat."_
